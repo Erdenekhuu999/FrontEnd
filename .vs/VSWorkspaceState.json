@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\@core",
+    "\\src\\@core\\layouts",
+    "\\src\\@core\\layouts\\components",
+    "\\src\\@core\\layouts\\components\\shared-components",
+    "\\src\\layouts\\components\\vertical",
+    "\\src\\pages\\account-settings",
+    "\\src\\pages\\bookings",
+    "\\src\\views"
+  ],
+  "SelectedNode": "\\src\\@core\\layouts\\components\\shared-components\\UserDropdown.js",
+  "PreviewInSolutionExplorer": false
+}
